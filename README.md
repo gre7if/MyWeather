@@ -1,5 +1,5 @@
 # MyWeather
-App using OpenWeatherMap API, Google Maps API, Core Data and VIPER architecture. It displays the list of cities, detailed weather information and location of a random 10,000 cities on map with clustering.
+App using OpenWeatherMap API, Google Maps API, Core Data and VIP architecture. It displays the list of cities, detailed weather information and location of a random 10,000 cities on map with clustering.
 
 **List of cities** (from http://bulk.openweathermap.org/sample/)
 
